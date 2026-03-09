@@ -1,6 +1,6 @@
 
 
-# AI Overview Content Gap Agent
+# AI Overview Agent
 
 ## Overview
 This project implements an AI agent that analyzes Google AI Overview sources and identifies content gaps in a client article.
